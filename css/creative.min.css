@@ -21,6 +21,16 @@ footer {
     }
 
 
+
+
+#share-buttons img {
+width: 45px;
+padding: 6px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
 hr{max-width:50px;border-width:3px;border-color:#24BDBB}
 hr.light{border-color:#fff}
 a{color:#24BDBB;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
