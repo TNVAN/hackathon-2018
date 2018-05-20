@@ -37,7 +37,9 @@ footer {
 }
 
 
-
+#hightlight {
+  color: #FE5E01;
+}
 
 hr {
   max-width: 50px;
@@ -277,17 +279,19 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #24BDBB;
-  border-color: #24BDBB;
+  color: #FE5E01;
+  background-color: #FE5E01;
 }
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #fff;
+.btn-primary:hover, {
+  color: #24BDBB;
   background-color: #24BDBB !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem #24BDBB !important;
+  color: #FE5E01;
+  background-color: #FE5E01;
+  box-shadow: 0 0 0 0.2rem #FE5E01 !important;
 }
 
 
