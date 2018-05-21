@@ -279,19 +279,17 @@ header.masthead p {
 }
 
 .btn-primary {
-  color: #FE5E01;
-  background-color: #FE5E01;
+ background-color:#FE5E01;
 }
 
 .btn-primary:hover, {
-  color: #24BDBB;
-  background-color: #24BDBB !important;
+ color:#fff; background-color:#C14A05!important
 }
 
 .btn-primary:active, .btn-primary:focus {
-  color: #FE5E01;
-  background-color: #FE5E01;
-  box-shadow: 0 0 0 0.2rem #FE5E01 !important;
+  background-color:#FE5E01; 
+  box-shadow:0 0 0 .1rem #FE5E01 !important
 }
+
 
 
